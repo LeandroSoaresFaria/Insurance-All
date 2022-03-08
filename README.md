@@ -7,7 +7,7 @@
 Insurance All is a company that provides health insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: Auto insurance. As with health insurance, customers of this new auto insurance plan need to pay an amount annually to Insurance All to obtain an amount insured by the company, intended for the costs of an eventual accident or damage to the vehicle.
 
 # 2. Business Assumptions.
--  Ao entrar em contato com alguns clientes por telefone, a empresa obteve relativo sucesso com resultados sólidos após oferecer o produto a aproximadamente 380 mil clientes. No entanto, os altos custos de operação tornaram a execução da operação proibitiva para os 127 mil novos clientes que ainda não conhecem a oferta. Assim, a empresa procurou uma consultoria em ciência de dados, esperando que os dados dos clientes em seu banco de dados pudessem ajudar a minimizar os custos, e tirar algumas dúvidas.
+By contacting some customers by phone, the company was relatively successful with solid results after offering the product to approximately 380,000 customers. However, the high operating costs made the execution of the operation prohibitive for the 127 thousand new customers who still do not know the offer. So the company turned to a data science consultancy, hoping that the customer data in its database could help minimize costs, and clear up some doubts.
 
 
 # 3. Solution Strategy
