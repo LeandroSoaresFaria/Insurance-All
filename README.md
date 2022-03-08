@@ -4,7 +4,11 @@
 
 # 1. Business Problem.
 
+Insurance All is a company that provides health insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: Auto insurance. As with health insurance, customers of this new auto insurance plan need to pay an amount annually to Insurance All to obtain an amount insured by the company, intended for the costs of an eventual accident or damage to the vehicle.
+
 # 2. Business Assumptions.
+-  Ao entrar em contato com alguns clientes por telefone, a empresa obteve relativo sucesso com resultados sólidos após oferecer o produto a aproximadamente 380 mil clientes. No entanto, os altos custos de operação tornaram a execução da operação proibitiva para os 127 mil novos clientes que ainda não conhecem a oferta. Assim, a empresa procurou uma consultoria em ciência de dados, esperando que os dados dos clientes em seu banco de dados pudessem ajudar a minimizar os custos, e tirar algumas dúvidas.
+
 
 # 3. Solution Strategy
 
