@@ -38,17 +38,19 @@ My strategy to solve this challenge was:
 
 **Hypothesis 01:** Female customers should want more a motor ensurance. 
 
-**False.** Female customers should want more a motor ensurance.
+**False.** Males want more motor ensurance then females
 
 ![Gender](/references/GenderXResponse.png)
 
-**Hypothesis 02:**
+**Hypothesis 02:** Customers without drive license shouldn't want a motor ensurance.
 
-**True/False.**
+**True.** Customers with drive license want more motor ensurance.
+![Driving License](/references/Driving_licenseXResponse.png)
 
-**Hypothesis 03:**
+**Hypothesis 03:** Customers who own a newer cars should want more auto insurance.
 
-**True/False.**
+**False.** Customers who own a older cars should want more auto insurance.
+![Vehicle age](/references/Vehicle_age_scalerXResponse.png)
 
 # 5. Machine Learning Model Applied
 
