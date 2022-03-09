@@ -22,20 +22,37 @@ My strategy to solve this challenge was:
 - Data Types
 - Check NA
 - Change Types
-- Descriptive Statistical
+- Descriptive Statistical 
+
 **Step 02. Feature Engineering**
 
+- Hypotheses criation
+- Feature Engineering 
+
 **Step 03. Data Filtering**
+- It was not necessary
 
 **Step 04. Exploratory Data Analysis**
+- Univariate Analysis
+- Bivariate Analysis
+- Multivariate Analysis
 
 **Step 05. Data Preparation**
+- Standardization
+- Rescaling Features
+- Features Transformation
+- Validation Preparation
 
 **Step 06. Feature Selection**
-
+- Features Importance
+- 
 **Step 07. Machine Learning Modelling**
+- KNN
+- Logistic Regression
+- Random Forest
 
 **Step 08. Hyperparameter Fine Tunning**
+- Logistic Regression fine tunning
 
 **Step 09. Convert Model Performance to Business Values**
 
