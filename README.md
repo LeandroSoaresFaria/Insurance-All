@@ -16,25 +16,25 @@ By contacting some customers by phone, the company was relatively successful wit
 
 My strategy to solve this challenge was:
 
-**Step 01. Data Description:**
+**Step 01. Data Description**
 
-**Step 02. Feature Engineering:**
+**Step 02. Feature Engineering**
 
-**Step 03. Data Filtering:**
+**Step 03. Data Filtering**
 
-**Step 04. Exploratory Data Analysis:**
+**Step 04. Exploratory Data Analysis**
 
-**Step 05. Data Preparation:**
+**Step 05. Data Preparation**
 
-**Step 06. Feature Selection:**
+**Step 06. Feature Selection**
 
-**Step 07. Machine Learning Modelling:**
+**Step 07. Machine Learning Modelling**
 
-**Step 08. Hyperparameter Fine Tunning:**
+**Step 08. Hyperparameter Fine Tunning**
 
-**Step 09. Convert Model Performance to Business Values:**
+**Step 09. Convert Model Performance to Business Values**
 
-**Step 10. Deploy Modelo to Production:**
+**Step 10. Deploy Modelo to Production**
 
 # 4. Top 3 Data Insights
 
@@ -55,16 +55,23 @@ My strategy to solve this challenge was:
 ![Vehicle age](/references/Vehicle_age_scalerXResponse.png)
 
 # 5. Machine Learning Model Applied
+- Logistic Regression
 
 # 6. Machine Learning Modelo Performance
+![Logistic Regression](/references/Cumulativ_Gains_Curve.png)
 
 # 7. Business Results
+**With the result shown above, we managed to reach more than 80% of the customers in the base, and with a profit of approximately 60%.**
 
 # 8. Conclusions
+- The project achieved its objective, which was to optimize the sale of insurance to customers likely to accept it.
 
 # 9. Lessons Learned
+- Deploy using google sheets.
+- Classification model for database ranking
 
 # 10. Next Steps to Improve
+- Apply the model to different sizes of databases
 
 # LICENSE
 
