@@ -2,6 +2,8 @@
 
 #### This project was made by Leandro Faria.
 
+![](https://img.freepik.com/fotos-gratis/jovem-bonito-abracando-um-carro-em-uma-sala-de-exposicoes_1303-20419.jpg?t=st=1646828377~exp=1646828977~hmac=035f6e01e73390ca11f61cdcb845fb311603af16ebb5819df84eb82ec54a58d3&w=1380)
+
 # 1. Business Problem.
 
 Insurance All is a company that provides health insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: Auto insurance. As with health insurance, customers of this new auto insurance plan need to pay an amount annually to Insurance All to obtain an amount insured by the company, intended for the costs of an eventual accident or damage to the vehicle.
