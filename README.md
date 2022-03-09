@@ -17,7 +17,12 @@ By contacting some customers by phone, the company was relatively successful wit
 My strategy to solve this challenge was:
 
 **Step 01. Data Description**
-
+- Features Description 
+- Data Dimentions
+- Data Types
+- Check NA
+- Change Types
+- Descriptive Statistical
 **Step 02. Feature Engineering**
 
 **Step 03. Data Filtering**
