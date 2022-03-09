@@ -45,7 +45,7 @@ My strategy to solve this challenge was:
 
 **Step 06. Feature Selection**
 - Features Importance
-- 
+
 **Step 07. Machine Learning Modelling**
 - KNN
 - Logistic Regression
