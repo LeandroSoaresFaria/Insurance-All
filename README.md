@@ -36,9 +36,11 @@ My strategy to solve this challenge was:
 
 # 4. Top 3 Data Insights
 
-**Hypothesis 01:**
+**Hypothesis 01:** Female customers should want more a motor ensurance. 
 
-**True/False.**
+**False.** Female customers should want more a motor ensurance.
+
+![Gender](/references/GenderXResponse.png)
 
 **Hypothesis 02:**
 
