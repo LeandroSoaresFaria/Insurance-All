@@ -95,6 +95,9 @@ My strategy to solve this challenge was:
 # 10. Next Steps to Improve
 - Apply the model to different sizes of databases
 
+# 11.Deploy
+![Deploy](/references/deploy.gif)
+
 # LICENSE
 
 # All Rights Reserved - Comunidade DS 2021
