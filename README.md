@@ -96,6 +96,8 @@ My strategy to solve this challenge was:
 - Apply the model to different sizes of databases
 
 # 11.Deploy
+- The deployment of this model was done using a google sheets spreadsheet, where the client has access to the spreadsheet and can put the data and just press the button created in the project to check the best action to take.
+
 ![Deploy](/references/deploy.gif)
 
 # LICENSE
